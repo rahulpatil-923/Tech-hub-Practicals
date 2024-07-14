@@ -1,3 +1,4 @@
+
 import java.util.*;
 public calss CompoundIntrestCalculator{
 	public static void main(String x[]){

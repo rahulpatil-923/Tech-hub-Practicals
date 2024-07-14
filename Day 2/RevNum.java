@@ -1,3 +1,4 @@
+@ -1,19 +0,0 @@
 // Q5. write a program to reveres a number.
 
 import java.util.*;

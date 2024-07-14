@@ -1,5 +1,3 @@
-
-import java.util.*;
 // Q6. write a java program to calculate area of an equilateral triangle.
 
 import java.util.*;

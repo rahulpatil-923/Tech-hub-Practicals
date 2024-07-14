@@ -1,6 +1,6 @@
 //  Q7. write a java program to enter marks of five subjects and calculate total marks and percentage .
-import java.util.Scanner;
 
+import java.util.Scanner;
 public class MarkSheet {
 
     public static void main(String[] args) {

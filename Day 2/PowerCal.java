@@ -1,3 +1,4 @@
+@ -1,20 +0,0 @@
 // Q3. write a java program that reads a number and display the cube, and fourth power.
 
 import java.util.*;

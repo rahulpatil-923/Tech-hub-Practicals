@@ -1,3 +1,4 @@
+@ -1,22 +0,0 @@
 // Q1. write a java program to enter side of square and find its area.
 
 import java.util.Scanner;

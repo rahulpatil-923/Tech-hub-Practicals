@@ -14,4 +14,3 @@ Q3. write a program to enter any five digit number and verse middle number rathe
 Q4. write a program to enter any digit number and print number in words.
 	input - 12345
 	output - one two three four five.
-

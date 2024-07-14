@@ -1,3 +1,4 @@
+@ -1,20 +0,0 @@
 // Q2. write a java program to conver seconnds to hours, minutes and seconds.
 
 import java.util.*;
