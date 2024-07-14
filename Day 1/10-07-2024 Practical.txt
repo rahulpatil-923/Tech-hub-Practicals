@@ -1,0 +1,27 @@
+Practical Day 1
+Date : 10/07/2024
+
+Q1. write  a program to enter side of square and find its area.
+	formula - area = side*side
+
+Q2. write a java program to enter radius of a circle and find its diameter, circumference.
+	Formula :- diameter = 2*radius;
+		circumeference = 2*3.14*radius;
+
+Q3. write a java program to enter temperature in fahrenheit and convert to celsius.
+	formula :- cel (fah -32) * 5 / 9;
+
+Q4. write a java program to enter temperature in celsius and convert it into fahrenheit.
+	formula :- fah = (cel * 9 / 5) + 32;
+
+Q5. write a java program to enter two angles of a triangle and find the third angle.
+
+Q6. write a java program to calculate area of an equilateral triangle.
+
+Q7. write a java program to enter marks of five subjects and calculate total marks and percentage.
+
+Q8. write a java program to calculate the compound intrest.
+
+Q9. write a java program swawp two number using third variable.
+
+Q10. write a java program swap two number without using third variable.

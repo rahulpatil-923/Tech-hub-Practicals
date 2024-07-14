@@ -1,0 +1,17 @@
+Practical Day 2
+11/07/2024
+
+Q1. write a java program to print the ASCII value of a given character.
+
+Q2. write a java program to concvert seconds to hours, minutes and seconds.
+
+Q3. write a java program that reads a number and display the cube, and fourth power.
+
+Q4. write a java program and compute the sum of an integer's digits.
+	Input : 123
+	Output : 6
+
+Q5. write a java program to reverse a word.
+	Input a number : 123
+	Reverse number : 321
+	

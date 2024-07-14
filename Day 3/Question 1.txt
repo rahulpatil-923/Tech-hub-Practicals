@@ -1,0 +1,17 @@
+Day 3
+12/07/2024
+
+Q1. write a program to reverse any diits number.
+
+Q2. write a program to enter any number and swap first and last digit of a number.
+	ex. 12345
+	output :- 52341
+
+Q3. write a program to enter any five digit number and verse middle number rather than first and last digit.
+	input - 12345
+	output - 14325
+
+Q4. write a program to enter any digit number and print number in words.
+	input - 12345
+	output - one two three four five.
+
