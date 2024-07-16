@@ -10,6 +10,8 @@ public calss CompoundIntrestCalculator{
 	int rate = sc.nextInt();
 	System.out.print("Enter a Time Period in monts : ");
 	int time = sc.nextInt();
-	System.out.
+
+	double CompoundIntrest = p*Math.pow(1.0+r/100.0,t)-p;
+	System.out.printf("Compound Intrest : %d.2lf\n", CompoundIntrest);
 }
 }
