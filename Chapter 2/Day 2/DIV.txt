@@ -1,0 +1,26 @@
+// Q. write a java program to find maximum between three numbers.
+
+import java.util.*;
+public class arms{
+	public static void main(String x[]){
+		
+		Scanner in = new Scanner(System.in);
+		System.out.printf("\nEnter number : ");
+		int num = in.nextInt();
+		boolean divFive = num%5 == 0;
+		boolean divElev = num%11m== 0;
+		if(divFive == true && divElev  == true){
+			System.out.print("both number is divisible to the given number.b");
+		}
+		else if(divFive == 0 && divElev != 0) {
+			System.out.print("Number is divisibleby 5 but it not divisible by 11");
+		}
+		else if(divElev == true && divElev == fLAW) {
+			System.out.print("Number is divisibleby 5 but it not divisible by 11");
+		}
+		
+		
+		
+}
+}
+
